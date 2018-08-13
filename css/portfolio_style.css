@@ -1,0 +1,78 @@
+ 
+ 
+ /*element style*/
+ 
+ .jumbotron h2 { color: #fff; 
+ font-family: 'Trocchi', serif; 
+ font-size: 45px; 
+ font-weight: normal; 
+ line-height: 48px; 
+ margin: 0;
+ text-transform: uppercase; }
+
+.jumbotron p { color: #fff; 
+font-family: 'Source Sans Pro', sans-serif; 
+font-size: 18px; 
+line-height: 32px; 
+margin: 0 0 24px; }
+
+
+
+/*Skills*/
+#skills {
+     background-color: #f5f3f3;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*Navbar*/
+ .navbar {
+	padding: 10px;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*Jumbotron*/
+ 
+ .jumbotron {
+	margin-bottom: 0px;
+    background-image: url(../img/background_home.jpg);
+    height: 100%;
+	width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron .container {
+  position: absolute;
+  top:50px;
+}
+
+
+/*Contact*/
+
+
+#contact {
+     background-color: #f5f3f3;
+}
+
+
+
+
+
+
+
